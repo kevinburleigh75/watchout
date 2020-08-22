@@ -1,2 +1,4 @@
 # watchout
 Some rando experiments.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevinburleigh75/watchout.git/master)
